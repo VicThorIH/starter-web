@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ## Purpose3
 Sample website with plenty of files for demos
 
+### Copyright
+yo merengues
