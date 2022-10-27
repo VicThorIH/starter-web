@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+## Purpose2
+Sample website with plenty of files for demos
+
