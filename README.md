@@ -1,6 +1,10 @@
 # Starter Web Repo
 
+<<<<<<< HEAD
 This repository is for showing how Git and GitHub work, agregando mas cambios al readme
+=======
+This repository is for showing how Git and GitHub work, adding changes a lot.
+>>>>>>> myfeature
 
 ## Introduction
 
