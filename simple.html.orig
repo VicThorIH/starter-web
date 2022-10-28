@@ -14,13 +14,21 @@ copirait
 </head>
 <body>
 	<main class="container">
+<<<<<<< HEAD
 	<!-- Content Goes Here  CHANGES FOR BIG TROUBLES-->
+=======
+	<!-- Content Goes Here BIG TROUBLE CHANGES -->
+>>>>>>> 951666e (adding some trouble to simle.html)
 		<p>
 			Just some content
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Company 2014</p>
+<<<<<<< HEAD
+		<p>&copy; Company 2014, CHANGES FOR BIG TROUBLES</p>
+=======
+		<p>&copy; Company 2014 BIG TROUBLE CHANGES</p>
+>>>>>>> 951666e (adding some trouble to simle.html)
 	</footer>
 </body>
 </html>
