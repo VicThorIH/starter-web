@@ -21,9 +21,3 @@ Sample website with plenty of files for demos
 
 ### Copyright
 yo merengues
-
-### Segundo Copyright
-yo merengues tambor
-
-### tercer Copyright
-yo merengues tambor again
